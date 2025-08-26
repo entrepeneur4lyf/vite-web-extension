@@ -684,10 +684,10 @@
   dependencies:
     "@babel/types" "^7.20.7"
 
-"@types/chrome@^0.0.278":
-  version "0.0.278"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.278.tgz#f7fefc0dd4b66a54bdea2950c5fd7397c729938d"
-  integrity sha512-PDIJodOu7o54PpSOYLybPW/MDZBCjM1TKgf31I3Q/qaEbNpIH09rOM3tSEH3N7Q+FAqb1933LhF8ksUPYeQLNg==
+"@types/chrome@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.1.4.tgz#74a3a6c892e2c5d0a98997c4f038cb67cfbb0fa9"
+  integrity sha512-vfISO7SPppN3OKVUqWujtZ4vux3nhDqKaHYEHgfQuPARHuWJ3jjyc1s13H0ckzEc86/neTkCl1TeW72UK6jYKA==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
